@@ -1,3 +1,6 @@
-function hi() {
-  alert('i am a cow!');
-}
+<p id="demo"></p>
+
+<script>
+var person = ["John", "Doe", 46];
+document.getElementById("demo").innerHTML = person[];
+</script>
